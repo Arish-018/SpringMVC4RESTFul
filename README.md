@@ -1,9 +1,9 @@
 # SpringMVC4RESTFul
 An Crud operation using SpringMVC 4 and Hibernate with mysql connectivity...
 
-Add you my sql connctivity credential in dbutility.properties
+Add your my sql connctivity credential in dbutility.properties
 
->
+
 database_name=your database name
 
 driver_class=com.mysql.jdbc.Driver
